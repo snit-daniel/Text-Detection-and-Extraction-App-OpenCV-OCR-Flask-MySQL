@@ -1,4 +1,4 @@
-# Text Detection and Extraction System
+# Text Detection and Extraction From Pictures Using OpenCV and OCR On Flask And MySQL
 
 ## Overview
 
