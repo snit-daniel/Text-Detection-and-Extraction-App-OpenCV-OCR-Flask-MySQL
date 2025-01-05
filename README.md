@@ -1,4 +1,4 @@
-# Text Detection and Extraction From Pictures Using OpenCV and OCR On Flask And MySQL
+# Text Detection and Extraction App: OpenCV, OCR, Flask, MySQL
 
 ## Overview
 
